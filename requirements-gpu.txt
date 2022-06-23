@@ -9,4 +9,4 @@ psutil>=5.8.0,<6
 pyarrow>=6.0.0,<7
 skein>=0.8.1,<1
 tensorflow-gpu>=1.15,<2
-tf-yarn-gpu>=0.5.1,<1
+tf-yarn-gpu==0.5.1
